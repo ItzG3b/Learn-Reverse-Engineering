@@ -10,6 +10,6 @@
 
 2. If available select 'No' to view without proximity view.
 
-![main() Decompiled](main() Decompiled.JPG)
+![main()Decompiled](main()Decompiled.JPG)
 
 3. There it is! The decompiled version of your compiled "Hello World!" c program.
