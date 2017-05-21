@@ -12,4 +12,4 @@
 
 ![main()Decompiled](main()Decompiled.JPG)
 
-3. There it is! The decompiled version of your compiled "Hello World!" c program.
+3. There it is! The disassembled version of your compiled "Hello World!" c program.
