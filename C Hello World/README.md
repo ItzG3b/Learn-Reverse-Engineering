@@ -1,6 +1,6 @@
 # Reversing a "Hello World" C program
 
-- To start you can either 'gcc' hello-world.c or you can just download the precompiled one in this repository.
+- To start you can ~either~ 'gcc' hello-world.c ~or you can just download the precompiled one in this repository~.
 
 ![loadingFile](loadingFile.JPG)
 
