@@ -30,3 +30,12 @@
 ![complete](complete.JPG) ![failed](failed.JPG)
 
 7. Now you can paste the password into the textBox and press check! If you got the success message congrats! If you didn't I don't know what to say.
+
+Alternative Method 
+
+1. Open PrismCrackMe.exe in [HxD](https://mh-nexus.de/en/hxd/).
+
+![HexEditorMethod](HexEditorMethod.JPG)
+2. Go to line 1230 and 2 columns over, you'll see the first 7 letters of the password with the last letter on the next line, 1240, in the first column.
+
+3. Copying the password is simple, just copy the characters of the password on the right side, while remembering to remove the "."s. 
