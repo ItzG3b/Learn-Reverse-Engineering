@@ -1,4 +1,4 @@
-# Reversing (+ patching) a Windows "Crack-Me" Style Program
+# Reversing <s>(+ patching)<s> a Windows "Crack-Me" Style Program
 
 ### <s>YOU NEED A WINDOWS MACHINE (physical or vm) IN ORDER TO COMPLETE THIS</s> <br><br>[Use Wine on Linux](https://www.winehq.org/) or [WineBottler on MacOS](https://winebottler.kronenberg.org/)
 
