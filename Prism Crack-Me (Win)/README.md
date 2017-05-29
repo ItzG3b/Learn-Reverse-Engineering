@@ -30,3 +30,5 @@
 ![complete](complete.JPG) ![failed](failed.JPG)
 
 7. Now you can paste the password into the textBox and press check! If you got the success message congrats! If you didn't I don't know what to say.
+
+OPTIONAL 8. [@REALKJCMEMBER](https://twitter.com/REALKJCMEMBER) tweeted at me with a picture of my crack-me(!!!) but he had edited the password to "ObamaIsFromKenya." Check that out [here](https://twitter.com/REALKJCMEMBER/status/868988173816389632). So I decided to add a guide to making a custom password. First find 'ldstr "$f47da</"' again. Then just edit the text inside of the "" marks, or $f47da</, you can change that to anything and then when you put in the new password it will give you the success screen.
