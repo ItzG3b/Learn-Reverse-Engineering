@@ -1,6 +1,6 @@
 # Reversing (+ patching) a Windows "Crack-Me" Style Program
 
-## YOU NEED A WINDOWS MACHINE (physical or vm) IN ORDER TO COMPLETE THIS
+### <s>YOU NEED A WINDOWS MACHINE (physical or vm) IN ORDER TO COMPLETE THIS</s> [Use Wine on Linux](https://www.winehq.org/) or [WineBottler on MacOS](https://winebottler.kronenberg.org/)
 
 - Start by downloading the 'PrismCrackMe.exe' in this folder
   
