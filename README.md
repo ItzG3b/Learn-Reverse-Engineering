@@ -3,3 +3,5 @@ A starter guide to learning reverse engineering.
 
 - [C Hello World](/C%20Hello%20World/README.md)
 - [Prism Crack-Me (Win)](/Prism%20Crack-Me%20(Win)/README.md)
+
+[//]: # (If you're reading this you're a l33t hacker)
